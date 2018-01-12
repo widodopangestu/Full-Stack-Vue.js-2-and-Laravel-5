@@ -21,6 +21,7 @@
     "vue": "^2.5.3"
   },
   "dependencies": {
-    "dotenv": "^4.0.0"
+    "dotenv": "^4.0.0",
+    "tslint": "^5.9.1"
   }
 }
