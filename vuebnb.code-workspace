@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "vuebnb-prototype"
+		},
+		{
+			"path": "vuebnb"
+		}
+	],
+	"settings": {
+		"php.validate.executablePath": "/usr/local/bin/php",
+		"phpformatter.composer": true,
+		"phpformatter.pharPath": "/usr/local/bin/php-cs-fixer",
+		"phpformatter.logging": true,
+		"phpformatter.phpPath": "/usr/local/bin/php"
+	}
+}
